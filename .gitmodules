@@ -1,9 +1,6 @@
 [submodule "bundle/Vundle.vim"]
 	path = bundle/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim
-[submodule "bundle/Muon"]
-	path = bundle/Muon
-	url = https://github.com/gregsexton/Muon
 [submodule "bundle/minibufexpl.vim"]
 	path = bundle/minibufexpl.vim
 	url = https://github.com/fholgado/minibufexpl.vim
@@ -31,6 +28,3 @@
 [submodule "bundle/rainbow_parentheses.vim"]
 	path = bundle/rainbow_parentheses.vim
 	url = https://github.com/kien/rainbow_parentheses.vim
-[submodule "bundle/paredit.vim"]
-	path = bundle/paredit.vim
-	url = https://github.com/vim-scripts/paredit.vim
